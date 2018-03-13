@@ -1,0 +1,54 @@
+(Pacman Killer) Yudhik
+The goal of the game is to maximise the score attained by bursting the balls.
+This is an arcade game where the player controls a metal player and uses it to land on and destroy
+other flying balls constantly traversing the screen from left to right. On landing on the flying balls,
+they disappear and the player gets launched upwards a little higher (Like Mario jumping on
+enemies).
+
+The world consists of a floor with a small semicircular pond and a trampoline. Flying balls of
+different colours (yellow ball = 50 points, green ball = 25 points) will traverse the screen above the
+ground at various random heights from left to right as well as from left to right. The balls are densely
+ located so that its possible to destroy multiple balls using the boost obtained by destroying one. 
+ Some of the flying balls have a rectangular slab attached at different angles, if the players lands on 
+ these slopes he/she would be launched at an angle of reflection from the perpendicular to the slab 
+ following the laws of reflection.From level 2 onwards a porcupines starts apperaring but stationary.
+ From level 3 onward magnet starts appearing and disappearing on random times.
+ From level 4 magnet starts appearing and disappearing randomly on either sides of the game which causes 
+ the player’s motion to be influenced .
+ In level 5 , spiked porcupines start moving if the player lands on loses his score by 50 and is relocated 
+ to its starting point.
+Level breakdown :::
+Level 1 -> scores in range [0,200)
+Level 2 -> scores in range [200,400)
+Level 3 -> scores in range [400,600)
+Level 4 -> scores in range [600,800)
+Level 5 -> scores in range [800,1000)
+subsequent Level -> scores greater than 1000
+Player can be controlled using mouse or keyboard controls as described in the README.
+
+== HOW TO RUN ==
+# Using QTCreator
+- Open QTCreator
+- Press "Open Project" and navigate to project directory
+- Select CMakeLists.txt
+- If you are asked to configure kits, make sure desktop is checked and press continue
+- Build -> Run (Only this needed after editing)
+
+# Using CLI
+```
+cd path/to/project
+mkdir build
+cd build
+cmake ..
+make
+./graphics_asgn1
+```
+
+# About the code
+
+If you want to self-learn, I recommend going through the site and downloading their original code
+https://github.com/opengl-tutorials/ogl/archive/master.zip
+
+The build process is specified here http://www.opengl-tutorial.org/beginners-tutorials/tutorial-1-opening-a-window/
+
+But it takes time to build and you might encounter errors since they build the libraries

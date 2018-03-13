@@ -1,0 +1,3 @@
+/home/yudhik/study/2-2/graphics/ass1/OpenGL-PacmanKiller/build/CMakeFiles/edit_cache.dir
+/home/yudhik/study/2-2/graphics/ass1/OpenGL-PacmanKiller/build/CMakeFiles/rebuild_cache.dir
+/home/yudhik/study/2-2/graphics/ass1/OpenGL-PacmanKiller/build/CMakeFiles/graphics_asgn1.dir
