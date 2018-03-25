@@ -1,5 +1,5 @@
-Graphics Assignment 1
-=====================
+Graphics Assignment
+===================
 
 # Yudhik Agrawal
 
