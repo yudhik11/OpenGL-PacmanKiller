@@ -27,11 +27,13 @@ Triangle proc;
 Magnet msmalll,mbigl;
 Magnet msmallr,mbigr;
 Score score,level;
+
 float screen_zoom = 1, screen_center_x = 0, screen_center_y = 0;
 extern bool drag_pan;
 extern double drag_oldx, drag_oldy;
 Timer t60(1.0 / 60);
 int mflagl=0,mflagr=0;
+
 float sqr(float a,int i){
     return a*a;
 }
