@@ -1,7 +1,7 @@
 Graphics Assignment 1
 =====================
 
-# Yudhik Agrawal - 20161093
+# Yudhik Agrawal
 
 2-D Game (Pacman Killer) made using openGL3 (C++).
 
