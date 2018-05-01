@@ -1,4 +1,4 @@
-(Pacman Killer) Yudhik
+(Pacman Killer) Yudhik Agrawal
 The goal of the game is to maximise the score attained by bursting the balls.
 This is an arcade game where the player controls a metal player and uses it to land on and destroy
 other flying balls constantly traversing the screen from left to right. On landing on the flying balls,

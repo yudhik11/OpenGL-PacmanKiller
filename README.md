@@ -1,7 +1,7 @@
-Graphics Assignment 1
-=====================
+Graphics Assignment
+===================
 
-# Yudhik Agrawal - 20161093
+# Yudhik Agrawal
 
 2-D Game (Pacman Killer) made using openGL3 (C++). Oddly enough, when you play Pacman Killer, the object of the game is to kill as many Pacman guys as possible. Strange eh? With the levels the game also gets more challenging.
 
